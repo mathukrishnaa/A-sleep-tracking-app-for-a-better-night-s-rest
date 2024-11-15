@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.projectone.app-mergeDebugResources-39:/values-vi/values-vi.xml",
+            "outputFile": "com.example.projectone.app-mergeDebugResources-38:/values-vi/values-vi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Mudassir\\.gradle\\caches\\transforms-3\\24f4e099d209265d11c9d6ea502b9a99\\transformed\\ui-1.2.0\\res\\values-vi\\values-vi.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,151,237,343,443,535,620,730,824,905,975,1045,1135,1226,1298",
-                        "endColumns": "95,85,105,99,91,84,109,93,80,69,69,89,90,71,65",
-                        "endOffsets": "146,232,338,438,530,615,725,819,900,970,1040,1130,1221,1293,1359"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,151,237,343,443,535,620,730,824,905,975,1045,1135,1226,1399",
-                        "endColumns": "95,85,105,99,91,84,109,93,80,69,69,89,90,71,65",
-                        "endOffsets": "146,232,338,438,530,615,725,819,900,970,1040,1130,1221,1293,1460"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Mudassir\\.gradle\\caches\\transforms-3\\9e6c59fa836bf02be7604ca30953af03\\transformed\\core-1.7.0\\res\\values-vi\\values-vi.xml",
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\9569c84a4f4ad289c483fd791a2ebbfe\\transformed\\core-1.7.0\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -35,6 +18,23 @@
                         "startOffsets": "1298",
                         "endColumns": "100",
                         "endOffsets": "1394"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\50ce6585d43690c2ba6c3f70d425cc36\\transformed\\ui-1.2.0\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,237,343,443,535,620,730,824,905,975,1045,1135,1226,1298",
+                        "endColumns": "95,85,105,99,91,84,109,93,80,69,69,89,90,71,65",
+                        "endOffsets": "146,232,338,438,530,615,725,819,900,970,1040,1130,1221,1293,1359"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,237,343,443,535,620,730,824,905,975,1045,1135,1226,1399",
+                        "endColumns": "95,85,105,99,91,84,109,93,80,69,69,89,90,71,65",
+                        "endOffsets": "146,232,338,438,530,615,725,819,900,970,1040,1130,1221,1293,1460"
                     }
                 }
             ]

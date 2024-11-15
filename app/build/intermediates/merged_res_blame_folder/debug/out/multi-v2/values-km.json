@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.projectone.app-mergeDebugResources-39:/values-km/values-km.xml",
+            "outputFile": "com.example.projectone.app-mergeDebugResources-38:/values-km/values-km.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Mudassir\\.gradle\\caches\\transforms-3\\9e6c59fa836bf02be7604ca30953af03\\transformed\\core-1.7.0\\res\\values-km\\values-km.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "16",
-                        "startColumns": "4",
-                        "startOffsets": "1291",
-                        "endColumns": "100",
-                        "endOffsets": "1387"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Mudassir\\.gradle\\caches\\transforms-3\\24f4e099d209265d11c9d6ea502b9a99\\transformed\\ui-1.2.0\\res\\values-km\\values-km.xml",
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\50ce6585d43690c2ba6c3f70d425cc36\\transformed\\ui-1.2.0\\res\\values-km\\values-km.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "105,190,270,374,472,560,644,748,833,920,985,1050,1130,1215,1392,1458",
                         "endColumns": "84,79,103,97,87,83,103,84,86,64,64,79,84,75,65,117",
                         "endOffsets": "185,265,369,467,555,639,743,828,915,980,1045,1125,1210,1286,1453,1571"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\9569c84a4f4ad289c483fd791a2ebbfe\\transformed\\core-1.7.0\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1291",
+                        "endColumns": "100",
+                        "endOffsets": "1387"
                     }
                 }
             ]

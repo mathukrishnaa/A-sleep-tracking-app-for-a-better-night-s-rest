@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.projectone.app-mergeDebugResources-39:/values-pl/values-pl.xml",
+            "outputFile": "com.example.projectone.app-mergeDebugResources-38:/values-pl/values-pl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Mudassir\\.gradle\\caches\\transforms-3\\24f4e099d209265d11c9d6ea502b9a99\\transformed\\ui-1.2.0\\res\\values-pl\\values-pl.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,200,285,394,499,576,653,764,854,937,1008,1078,1161,1248,1320,1388",
-                        "endColumns": "94,84,108,104,76,76,110,89,82,70,69,82,86,71,67,119",
-                        "endOffsets": "195,280,389,494,571,648,759,849,932,1003,1073,1156,1243,1315,1383,1503"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,200,285,394,499,576,653,764,854,937,1008,1078,1161,1248,1421,1489",
-                        "endColumns": "94,84,108,104,76,76,110,89,82,70,69,82,86,71,67,119",
-                        "endOffsets": "195,280,389,494,571,648,759,849,932,1003,1073,1156,1243,1315,1484,1604"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Mudassir\\.gradle\\caches\\transforms-3\\9e6c59fa836bf02be7604ca30953af03\\transformed\\core-1.7.0\\res\\values-pl\\values-pl.xml",
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\9569c84a4f4ad289c483fd791a2ebbfe\\transformed\\core-1.7.0\\res\\values-pl\\values-pl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -35,6 +18,23 @@
                         "startOffsets": "1320",
                         "endColumns": "100",
                         "endOffsets": "1416"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\50ce6585d43690c2ba6c3f70d425cc36\\transformed\\ui-1.2.0\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,285,394,499,576,653,764,854,937,1008,1078,1161,1248,1320,1388",
+                        "endColumns": "94,84,108,104,76,76,110,89,82,70,69,82,86,71,67,119",
+                        "endOffsets": "195,280,389,494,571,648,759,849,932,1003,1073,1156,1243,1315,1383,1503"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,285,394,499,576,653,764,854,937,1008,1078,1161,1248,1421,1489",
+                        "endColumns": "94,84,108,104,76,76,110,89,82,70,69,82,86,71,67,119",
+                        "endOffsets": "195,280,389,494,571,648,759,849,932,1003,1073,1156,1243,1315,1484,1604"
                     }
                 }
             ]
