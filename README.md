@@ -1,4 +1,4 @@
-# SleepTrackingApp
+# SleepTrackingApp for better night
 
 <h1>Introduction:</h1>
 The Sleep Tracking Application is designed to help users track their sleep patterns and improve their overall sleep quality. The application will allow users to record the duration and quality of their sleep, track their sleep patterns over time, and receive personalized recommendations to improve their sleep habits. The application will be developed using Java/Kotlin programming language.
