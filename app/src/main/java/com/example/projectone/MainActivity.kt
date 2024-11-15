@@ -58,17 +58,17 @@ fun MyScreen(context: Context, databaseHelper: TimeLogDatabaseHelper) {
         painterResource(id = R.drawable.sleeptracking),
         contentScale = ContentScale.FillHeight,
         contentDescription = "",
-        modifier = imageModifier.alpha(0.7F) // Lighter white effect
+        modifier = imageModifier.alpha(0.7F)
 
     )
 
-    // Update the timer if the tracker is running
+
     LaunchedEffect(isRunning) {
         if (isRunning) {
             while (isRunning) {
-                // Update the elapsed time every second
+
                 elapsedTime = System.currentTimeMillis() - startTime
-                kotlinx.coroutines.delay(1000) // Delay for 1 second
+                kotlinx.coroutines.delay(1000)
             }
         }
     }
